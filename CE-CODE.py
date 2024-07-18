@@ -2,7 +2,7 @@
 """
 Created on Tue Jan  5 13:54:00 2021
 
-@author: shast
+@author: Kar
 """
 
 import csv
