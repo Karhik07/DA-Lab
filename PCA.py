@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 28 14:02:06 2021
 
-@author: shast
+@author: Kar
 """
 
 # https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
